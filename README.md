@@ -1,4 +1,4 @@
-# Getting started
+# Get started with Erlang EUnit and TDD Reloader
 
 ```
   make shell
